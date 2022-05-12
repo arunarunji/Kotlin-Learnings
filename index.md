@@ -5,10 +5,10 @@ You can visit each of the Topic Pages using the below Index
 
 | Index |
 |----|
-| [iOS Introduction](https://techinessoverloaded.github.io/iOSAppDevBasics/iosintro.html) |
+| [iOS Introduction](https://arunarunji.github.io/Kotlin-Learnings/Introduction.html) |
 
 
 jkjjk==
 <span style="float: right">
-  <a href="https://techinessoverloaded.github.io/iOSAppDevBasics/iosintro.html">iOS Introduction &rarr;</a>
+  <a href="https://arunarunji.github.io/Kotlin-Learnings/Introduction.html">iOS Introduction &rarr;</a>
 </span>
