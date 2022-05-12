@@ -8,7 +8,7 @@ You can visit each of the Topic Pages using the below Index
 | [iOS Introduction](https://arunarunji.github.io/Kotlin-Learnings/Introduction.html) |
 
 
-jkjjk==
+<!-- jkjjk==
 <span style="float: right">
   <a href="https://arunarunji.github.io/Kotlin-Learnings/Introduction.html">iOS Introduction &rarr;</a>
-</span>
+</span> -->
