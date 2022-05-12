@@ -1,2 +1,10 @@
 
-theme: jekyll-theme-cayman
+
+remote_theme: "lewismiddleton/cayman-dark"
+
+plugins:
+- jekyll-remote-theme
+
+title: Android and Kotlin Learnings
+description: A simple Blog which helps to learn/recall the basics of Android App Development using Kotlin Programming Language.
+author: ArunKumar M
